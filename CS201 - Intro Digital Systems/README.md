@@ -1,0 +1,1 @@
+This was an intro to digital systems course. Absolutely loved this class. This directory includes some random samples from the assembly portion of the course. We also did a lot of circuit design in the class, the files for which I could provide to prospective employers.
