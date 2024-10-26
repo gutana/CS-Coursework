@@ -1,0 +1,1 @@
+This was a fun class, more assembly and circuit design. I've uploaded a couple of the assembly assignments. Can provide .circ files for the circuits if interested.
