@@ -1,0 +1,1 @@
+These are the labs for my operating systems course. One of my favourite labs in the degree. 
