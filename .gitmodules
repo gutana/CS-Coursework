@@ -4,3 +4,6 @@
 [submodule "CS476 - Major Project (webapp)"]
 	path = CS476 - Major Project (webapp)
 	url = https://github.com/gutana/476Project
+[submodule "CS458Project"]
+	path = CS458Project
+	url = git@github.com:gutana/CS458Project.git

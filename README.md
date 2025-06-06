@@ -1,6 +1,6 @@
 # CS Coursework
 
-This repository contains code samples from some of my courses at the UofR. Some courses or assignments will include a README to provide context on the assignment, if necessary. **I will be adding code samples from my 400 level CS courses periodically until April 2025.**
+This repository contains code samples from some of my courses at the UofR. Some courses or assignments will include a README to provide context on the assignment, if necessary.
 
 A lot of what you see here, especially in my earlier courses, might be considered terrible code. I'm with you.  There likely isn't a single project in here that I wouldn't make significant modifications to, as the programmer that I am today. However, I'm leaving them unedited from the time of submission. 
 
